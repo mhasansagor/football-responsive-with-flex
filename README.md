@@ -1,1 +1,0 @@
-# football-responsive-without-framework
